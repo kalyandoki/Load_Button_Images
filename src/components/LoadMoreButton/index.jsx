@@ -21,7 +21,7 @@ export default function LoadMoreButton() {
 
   return (
     <>
-      <h1>Load More Images</h1>
+      <h1>🔃 Load More Images 🔃</h1>
       <div className="image-container">
         {imgData.slice(0, imgCount > 8 ? imgCount : 8).map((item, index) => (
           <div key={index}>
