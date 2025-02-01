@@ -15,6 +15,10 @@
   height: 200px;
 }
 
+.images:hover {
+  width: 240px;
+  height: 210px;
+}
 p {
   color: rgb(198, 27, 107);
   font-size: 20px;
